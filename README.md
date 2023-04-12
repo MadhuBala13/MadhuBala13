@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hello Folks 👩👩🏻‍💻Name: "Madhu Bala" 📚Education: "BSC IT"  🏡Location: "Jamshedpur, Jharkhand, India"  😁Fun Fact: " Athlete & Photographer"
+
+Hello Folks 👩
+👩🏻‍💻Name: "Madhu Bala"
+📚Education: "BSC IT" 
+🏡Location: "Jamshedpur, Jharkhand, India" 
+😁Fun Fact: " Athlete & Photographer"
 
 
 # 💻 Tech Stack:
